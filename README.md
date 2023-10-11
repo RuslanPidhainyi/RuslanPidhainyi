@@ -1,8 +1,8 @@
  #   👋 Hi, I’m @RuslanPidhainyi 
 ---
 
-- 👨‍💻 **Programming languages and other:** C#, C++, Java Script, T-SQL, HTML, CSS, WPF
-- 🌐 **Frameworks:** ASP.NET, .NET MAUI
+- 👨‍💻 **Programming languages and other:** C#, C++, Java Script, T-SQL, MongoDB, HTML, CSS, WPF
+- 🌐 **Frameworks:** ASP.NET, .NET MAUI, React.js
 - ⚙ **Tools:** Vistual Studio, Visual Studio Code, Microsoft SQL Server Management Studio 
 - 📫 **How to reach me** [Linkedin](https://www.linkedin.com/in/ruslan-pidhainyi-10539126b/) .
 
