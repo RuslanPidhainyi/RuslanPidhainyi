@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hi, I’m @RuslanPidhainyi</h1>
 
 - 👨‍💻 **Languages:** C#, C++, Kotlin, Transact-SQL, JavaScript, TypeScript    
-- 🌐 **Technologies:** ASP.Net, .Net, React, WPF, HTML, CSS(SASS), MongoDB
+- 🌐 **Technologies:** .Net, React, Angular, HTML, CSS(SASS)
+- 💾 **Databases** SQL Server, SQLite, MongoDB
 - ⚙  **IDE:** Vistual Studio, Visual Studio Code, Microsoft SQL Server Management Studio, Android Studio 
 - 📫 **How to reach me** [Linkedin](https://www.linkedin.com/in/ruslan-pidhainyi-10539126b/) .
 
