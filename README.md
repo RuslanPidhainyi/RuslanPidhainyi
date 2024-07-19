@@ -2,7 +2,7 @@
 
 - 👨‍💻 **Languages:** C#, C++, Kotlin, Transact-SQL, JavaScript, TypeScript    
 - 🌐 **Technologies:** .Net, React, Angular, HTML, CSS(SASS)
-- 💾 **Databases** SQL Server, SQLite, MongoDB
+- 💾 **Databases:** SQL Server, SQLite, MongoDB
 - ⚙  **IDE:** Vistual Studio, Visual Studio Code, Microsoft SQL Server Management Studio, Android Studio 
 - 📫 **How to reach me** [Linkedin](https://www.linkedin.com/in/ruslan-pidhainyi-10539126b/) .
 
