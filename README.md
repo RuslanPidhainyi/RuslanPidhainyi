@@ -3,12 +3,13 @@
 ## My Skills 📚 
 
 - 👨‍💻 **Languages:** C#, C++, Kotlin, JavaScript, TypeScript, Transact-SQL    
-- 🌐 **Technologies:** ASP.Net, React, Angular, HTML, CSS(SASS)
+- 🌐 **Technologies:** ASP.Net, React, Angular, HTML, CSS, SASS
 - 💾 **Databases:** SQL Server, SQLite, MongoDB
+- 🛠️ **Others:**  Git, GitHub, Jira, Postman, Vite, npm, yarn
 - ⚙  **IDE:** Vistual Studio, Visual Studio Code, Microsoft SQL Server Management Studio, Android Studio 
 - 📫 **How to reach me** [Linkedin](https://www.linkedin.com/in/ruslan-pidhainyi-10539126b/) .
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,cpp,dotnet,react,angular,html,css,sass,mysql,sqlite,mongodb,postman,figma,ps,vite,npm,yarn,visualstudio,vscode,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,cpp,dotnet,react,angular,html,css,sass,mysql,sqlite,mongodb,git,github,postman,vite,npm,yarn,visualstudio,vscode,androidstudio,figma,ps)](https://skillicons.dev)
 
 
 ## My Statistics 📊
