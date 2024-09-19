@@ -6,12 +6,21 @@
 - ⚙  **IDE:** Vistual Studio, Visual Studio Code, Microsoft SQL Server Management Studio, Android Studio 
 - 📫 **How to reach me** [Linkedin](https://www.linkedin.com/in/ruslan-pidhainyi-10539126b/) .
 
-
+## My Statistics
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanPidhainyi&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RuslanPidhainyi&theme=neon&show_icons=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RuslanPidhainyi&theme=buefy&show_icons=true">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=RuslanPidhainyi&theme=buefy&show_icons=true">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanPidhainyi&layout=compact&theme=vision-friendly-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanPidhainyi&layout=compact&theme=buefy">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanPidhainyi&layout=compact&theme=buefy" alt="Top Langs">
+  </picture>
 </p>
+
 
   <!---
 RuslanPidhainyi/RuslanPidhainyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
