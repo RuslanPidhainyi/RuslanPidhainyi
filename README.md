@@ -19,7 +19,7 @@
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=RuslanPidhainyi&theme=neon&show_icons=true">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanPidhainyi&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanPidhainyi&layout=compact&theme=neon" alt="Top Langs">
   </a>
 </p>
 
