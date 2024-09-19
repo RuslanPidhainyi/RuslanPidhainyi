@@ -10,20 +10,18 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,cs,cpp,dotnet,react,angular,html,css,sass,mysql,sqlite,mongodb,postman,figma,ps,vite,npm,yarn,visualstudio,vscode,androidstudio)](https://skillicons.dev)
 
-## My Statistics 📊
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RuslanPidhainyi&theme=neon&show_icons=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RuslanPidhainyi&theme=buefy&show_icons=true">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=RuslanPidhainyi&theme=buefy&show_icons=true">
-  </picture>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanPidhainyi&layout=compact&theme=vision-friendly-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanPidhainyi&layout=compact&theme=buefy">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanPidhainyi&layout=compact&theme=buefy" alt="Top Langs">
-  </picture>
+## My Statistics 📊
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=RuslanPidhainyi&theme=neon&show_icons=true">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanPidhainyi&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
+  </a>
 </p>
+
 
 
   <!---
