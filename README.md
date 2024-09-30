@@ -9,7 +9,7 @@
 - ⚙  **IDE:** Vistual Studio, Visual Studio Code, Microsoft SQL Server Management Studio, Android Studio 
 - 📫 **How to reach me** [Linkedin](https://www.linkedin.com/in/ruslan-pidhainyi-10539126b/) .
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,cpp,dotnet,react,angular,html,css,sass,mysql,sqlite,mongodb,git,github,postman,vite,npm,yarn,visualstudio,vscode,androidstudio,figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,cpp,dotnet,react,angular,html,css,sass,sqlite,mongodb,git,github,postman,vite,npm,yarn,visualstudio,vscode,androidstudio,figma,ps)](https://skillicons.dev)
 
 
 ## My Statistics 📊
