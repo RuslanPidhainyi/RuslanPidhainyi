@@ -5,7 +5,7 @@
 - 👨‍💻 **Languages:** C#, C++, Kotlin, JavaScript, TypeScript, Transact-SQL    
 - 🌐 **Technologies:** .Net, React, Angular, HTML, CSS, SASS
 - 💾 **Databases:** Microsoft SQL Server, SQLite, MongoDB
-- 🛠️ **Others:**  Git, GitHub, Jira, Postman, DBeaver, Vite, npm, yarn
+- 🛠️ **Others:**  Git, GitHub, Jira, Postman, DBeaver, Vite, npm, yarn, Azure
 - ⚙  **IDE:** Vistual Studio, Visual Studio Code, Microsoft SQL Server Management Studio, Android Studio 
 - 📫 **How to reach me** [Linkedin](https://www.linkedin.com/in/ruslan-pidhainyi-10539126b/) .
 
