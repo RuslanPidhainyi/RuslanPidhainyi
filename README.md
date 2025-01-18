@@ -2,8 +2,8 @@
 
 ## My Skills 📚 
 
-- 👨‍💻 **Languages:** C#, JavaScript, TypeScript, Transact-SQL    
-- 🌐 **Technologies:** .Net Core, Node.js, React, Angular, HTML, CSS, SASS
+- 👨‍💻 **Languages:** C#, JavaScript, TypeScript, T-SQL (Transact-SQL), SQL    
+- 🌐 **Technologies:** .Net Core, ASP .Net Core (MVC, Web API), Node.js, React, Angular, HTML, CSS, SASS(SCSS)
 - 💾 **Databases:** Microsoft SQL Server, SQLite
 - 🛠️ **Others:**  Git, GitHub, Jira, Postman, DBeaver, Vite, npm, yarn, Azure
 - ⚙  **IDE:** Vistual Studio, Visual Studio Code, Microsoft SQL Server Management Studio,
