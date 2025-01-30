@@ -2,11 +2,14 @@
 
 ## My Skills 📚 
 
-- 👨‍💻 **Languages:** C#, JavaScript, TypeScript, T-SQL (Transact-SQL), SQL    
-- 🌐 **Technologies:** .Net (Framework, Core), ASP .Net Core (MVC, Web API), Node.js, React, Angular, HTML, CSS, SASS(SCSS)
-- 💾 **Databases:** Microsoft SQL Server, SQLite
-- 🛠️ **Others:**  Git, GitHub, Jira, Postman, DBeaver, Vite, npm, yarn, Azure
-- ⚙  **IDE:** Vistual Studio, Visual Studio Code, Microsoft SQL Server Management Studio,
+- 👨‍💻 **Languages:** C#, JavaScript, TypeScript, T-SQL (Transact-SQL), SQL
+- 🎨 **Web-Technologies:** HTML, CSS, SASS(SCSS)     
+- 🌐 **Frameworks & Libraries:** ASP .Net Core (MVC, Web API), React, Angular 
+- ⚙ **Runtime Environments:** .Net (Framework, Core),  Node.js
+- 📦 **Package Managers:** NuGet, NPM, Yarn
+- 💾 **Databases & Cloud Computing Platform:** Microsoft SQL Server, SQLite, Azure
+- 🛠️ **Others:**  Git, GitHub, Jira, Postman, Vite, 
+- 🕹️ **IDE`s:** Visual Studio, Visual Studio Code, Microsoft SQL Server Management Studio, DBeaver
 - 📫 **How to reach me** [Linkedin](https://www.linkedin.com/in/ruslan-pidhainyi-10539126b/) .
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,cs,dotnet,angular,html,css,sass,sqlite,mongodb,git,github,postman,vite,npm,yarn,visualstudio,vscode,figma,ps)](https://skillicons.dev)
