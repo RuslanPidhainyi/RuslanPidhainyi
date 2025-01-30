@@ -10,7 +10,9 @@
 - 💾 **Databases & Cloud Computing Platform:** Microsoft SQL Server, SQLite, Azure
 - 🛠️ **Others:**  Git, GitHub, Jira, Postman, Vite, 
 - 🕹️ **IDE`s:** Visual Studio, Visual Studio Code, Microsoft SQL Server Management Studio, DBeaver
-- 📫 **How to reach me** [Linkedin](https://www.linkedin.com/in/ruslan-pidhainyi-10539126b/), [Gmail](mailto:ruslanpidhainyi02@gmail.com) 
+- 📫 **How to reach me:** <a href="https://www.linkedin.com/in/ruslan-pidhainyi-10539126b/" target="_blank">LinkedIn</a>
+, <a href="mailto:ruslanpidhainyi02@gmail.com" target="_blank">Gmail</a>
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,cs,dotnet,angular,html,css,sass,sqlite,mongodb,git,github,postman,vite,npm,yarn,visualstudio,vscode,figma,ps)](https://skillicons.dev)
 
