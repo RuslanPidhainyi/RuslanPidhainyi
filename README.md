@@ -2,7 +2,7 @@
 
 ## My Skills 📚 
 
-- 👨‍💻 **Programming languages:** C#, JavaScript, TypeScript
+- 👨‍💻 **Programming languages:** C#, C++, JavaScript, TypeScript
 - 🛢️ **Query languages:** T-SQL (Transact-SQL), SQL
 - 🎨 **Web-Technologies:** HTML, CSS, SASS(SCSS)     
 - 🌐 **Frameworks & Libraries:** ASP .Net Core (MVC, Web API), React, Angular,  
