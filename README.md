@@ -9,8 +9,8 @@
 - ⚙  **Runtime Environments:** .Net (Framework, Core),  Node.js
 - 📦 **Package Managers:** NuGet, NPM, Yarn
 - 💾 **Databases & Cloud Computing Platform:** Microsoft SQL Server, SQLite, Azure
-- 🛠️ **Others:**  DevTools, Git, GitHub, Postman, Vite
-- 🌀 **DevOps:** Jira
+- 🛠️ **Others:**  DevTools, Postman, Vite
+- 🌀 **DevOps:** Jira, Git, GitHub
 - 🕹️ **IDE`s:** Visual Studio, Visual Studio Code, Microsoft SQL Server Management Studio, DBeaver
 - 📫 **How to reach me:** <a href="https://www.linkedin.com/in/ruslan-pidhainyi-10539126b/" target="_blank">LinkedIn</a>
 , <a href="mailto:ruslanpidhainyi02@gmail.com" target="_blank">Gmail</a>
