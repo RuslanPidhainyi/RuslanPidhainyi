@@ -2,13 +2,14 @@
 
 ## My Skills 📚 
 
-- 👨‍💻 **Programming languages:** C#, C++, JavaScript, TypeScript
-- 🛢️ **Query languages:** T-SQL (Transact-SQL), SQL
+- 👨‍💻 **Programming languages:** C# (OOP, SOLID, Design patterns), C++, JavaScript, TypeScript
+- 🛢️ **Query languages:** T-SQL (Transact-SQL), SQL-92
 - 🎨 **Web-Technologies:** HTML, CSS, SASS(SCSS)     
 - 🌐 **Frameworks & Libraries:** ASP .Net Core (MVC, Web API), React, Angular,  
 - ⚙  **Runtime Environments:** .Net (Framework, Core),  Node.js
 - 📦 **Package Managers:** NuGet, NPM, Yarn
-- 💾 **Databases & Cloud Computing Platform:** Microsoft SQL Server, SQLite, Azure
+- 💾 **Databases:** Microsoft SQL Server, SQLite
+- ☁️ **Cloud Computing Platform:** Azure, AWS
 - 🛠️ **Others:**  DevTools, Postman, Vite
 - 🌀 **DevOps:** Jira, Git, GitHub
 - 🕹️ **IDE`s:** Visual Studio, Visual Studio Code, Microsoft SQL Server Management Studio, DBeaver
