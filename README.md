@@ -5,10 +5,12 @@
 - 👨‍💻 **Programming languages:** C# (OOP, SOLID, Design patterns), C++, JavaScript, TypeScript
 - 🛢️ **Query languages:** T-SQL (Transact-SQL), SQL-92
 - 🎨 **Web-Technologies:** HTML, CSS, SASS(SCSS)     
-- 🌐 **Frameworks & Libraries:** ASP .Net Core (MVC, Web API), React, Angular,  
+- 🌐 **Frameworks & Libraries:** ASP .Net Core (MVC, Web API), React, Angular
+- 🤵 **API:** RESTful
+- 🤖 **ORM:** Entity Framework
 - ⚙  **Runtime Environments:** .Net (Framework, Core),  Node.js
 - 📦 **Package Managers:** NuGet, NPM, Yarn
-- 💾 **Databases:** Microsoft SQL Server, SQLite
+- 💾 **Databases:** Microsoft SQL Server, PostgreSQL, SQLite
 - ☁️ **Cloud Computing Platform:** Azure, AWS
 - 🛠️ **Others:**  DevTools, Postman, Vite
 - 🌀 **DevOps:** Jira, Git, GitHub
