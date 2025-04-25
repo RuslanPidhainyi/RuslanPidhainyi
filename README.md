@@ -3,7 +3,7 @@
 ## My Skills 📚 
 
 - 👨‍💻 **Programming languages:** C# (OOP, SOLID, Design patterns), C++, JavaScript, TypeScript
-- 🛢️ **Query languages:** T-SQL (Transact-SQL), SQL-92
+- 🛢️ **Query languages:** T-SQL (Transact-SQL), SQL-92, PL/pgSQL
 - 🎨 **Web-Technologies:** HTML, CSS, SASS(SCSS)     
 - 🌐 **Frameworks & Libraries:** ASP .Net Core (MVC, Web API), React, Angular
 - 🤵 **API:** RESTful
@@ -13,8 +13,10 @@
 - 💾 **Databases:** Microsoft SQL Server, PostgreSQL, SQLite
 - ☁️ **Cloud Computing Platform:** Azure, AWS
 - 🛠️ **Others:**  DevTools, Postman, Vite
-- 🌀 **DevOps:** Jira, Git, GitHub
-- 🕹️ **IDE`s:** Visual Studio, Visual Studio Code, Microsoft SQL Server Management Studio, DBeaver
+- 🌀 **DevOps:** Jira, Git, GitHub, Azure
+- 🕹️ **IDE`s:** Visual Studio, Visual Studio Code, Microsoft SQL Server Management Studio, DBeaver, Docker
+- 👷 **Architectural pattern:** Monolite, MVC, Client-Server, Microservice
+- 🧪 **Tests:** Unit, Integration
 - 📫 **How to reach me:** <a href="https://www.linkedin.com/in/ruslan-pidhainyi-10539126b/" target="_blank">LinkedIn</a>
 , <a href="mailto:ruslanpidhainyi02@gmail.com" target="_blank">Gmail</a>
 
