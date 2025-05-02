@@ -6,7 +6,7 @@
 - 🛢️ **Query languages:** T-SQL (Transact-SQL), SQL-92, PL/pgSQL
 - 🎨 **Web-Technologies:** HTML, CSS, SASS(SCSS)     
 - 🌐 **Frameworks & Libraries:** ASP .Net Core (MVC, Web API), React, Angular
-- 🤵 **API:** RESTful
+- 🤵 **API:** RESTful, GraphQL
 - 🤖 **ORM:** Entity Framework
 - ⚙  **Runtime Environments:** .Net (Framework, Core),  Node.js
 - 📦 **Package Managers:** NuGet, NPM, Yarn
@@ -16,7 +16,8 @@
 - 🌀 **DevOps:** Jira, Git, GitHub, Azure
 - 🕹️ **IDE`s:** Visual Studio, Visual Studio Code, Microsoft SQL Server Management Studio, DBeaver, Docker
 - 👷 **Architectural pattern:** Monolite, MVC, Client-Server, Microservice
-- 🧪 **Tests:** Unit, Integration
+- 👷‍♂️ **Testing pattern:** Arrange-Act-Assert
+- 🧪 **Tests:** Unit(xUnit, MSTest), Integration(xUnit, MSTest), E2E(Playwright)
 - 📫 **How to reach me:** <a href="https://www.linkedin.com/in/ruslan-pidhainyi-10539126b/" target="_blank">LinkedIn</a>
 , <a href="mailto:ruslanpidhainyi02@gmail.com" target="_blank">Gmail</a>
 
