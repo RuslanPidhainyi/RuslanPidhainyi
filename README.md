@@ -16,7 +16,7 @@
 - 🌀 **DevOps:** Jira, Git, GitHub, Azure
 - 🕹️ **IDE`s:** Visual Studio, Visual Studio Code, Microsoft SQL Server Management Studio, DBeaver, Docker
 - 👷 **Architectural pattern:** MVC, Client-Server, Microservice
-- 👷‍♂️ **Testing pattern:** Arrange-Act-Assert
+- 👷🏻‍♀️ **Testing pattern:** Arrange-Act-Assert
 - 🧪 **Tests:** Unit (xUnit, MSTest), Integration (xUnit, MSTest), E2E (Playwright)
 - 📫 **How to reach me:** <a href="https://www.linkedin.com/in/ruslan-pidhainyi-10539126b/" target="_blank">LinkedIn</a>
 , <a href="mailto:ruslanpidhainyi02@gmail.com" target="_blank">Gmail</a>
