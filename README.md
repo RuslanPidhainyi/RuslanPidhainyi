@@ -13,8 +13,7 @@
 - 💾 **Databases:** Microsoft SQL Server, PostgreSQL, SQLite
 - ☁️ **Cloud Computing Platform:** Azure, AWS
 - 🧪 **Tests:**
-   - Manual test: Unit (xUnit, MSTest), Integration (xUnit, MSTest),
-   - Auto test: E2E (Playwright)
+   - AutoTest: Unit (xUnit, MSTest), Integration (xUnit, MSTest), E2E (Playwright)
 - 🛠️ **Others:**  DevTools, Postman, Vite
 - 🌀 **DevOps:** Jira, Git, GitHub, Azure
 - 🕹️ **IDE`s:** Visual Studio, Visual Studio Code, Microsoft SQL Server Management Studio, DBeaver, Docker
