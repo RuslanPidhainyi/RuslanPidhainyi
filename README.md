@@ -2,21 +2,21 @@
 
 ## My Skills 📚 
 
-- 👨‍💻 **Programming languages:** C# (OOP, SOLID, Design patterns), C++, JavaScript, TypeScript
+- 👨‍💻 **Programming languages:** C# (OOP, SOLID, Design patterns), C++, JavaScript, TypeScript, Python
 - 🛢️ **Query languages:** T-SQL (Transact-SQL), SQL-92, PL/pgSQL
-- 🎨 **Web-Technologies:** HTML, CSS, SASS (SCSS)     
+- 🎨 **Web-Technologies:** HTML, CSS, SASS (SCSS)
 - 🌐 **Frameworks & Libraries:** ASP .Net Core (MVC, Web API), React, Angular
 - 🤵 **API:** RESTful, GraphQL
 - 🤖 **ORM:** Entity Framework
-- ⚙  **Runtime Environments:** .Net (Framework, Core),  Node.js
-- 📦 **Package Managers:** NuGet, NPM, Yarn
+- ⚙  **Runtime Environments:** .Net (Framework, Core),  Node.js,  CPython
+- 📦 **Package Managers:** NuGet, NPM, Yarn, pip
 - 💾 **Databases:** Microsoft SQL Server, PostgreSQL, SQLite
-- ☁️ **Cloud Computing Platform:** Azure, AWS
+- ☁️ **Cloud Computing Platform:** Azure, AWS (S3 bucket, Lambda)
 - 🧪 **Tests:**
    - AutoTest: Unit (xUnit, MSTest), Integration (xUnit, MSTest), E2E (Playwright)
-- 🛠️ **Others:**  DevTools, Postman, Vite
-- 🌀 **DevOps:** Jira, Git, GitHub, Azure
-- 🕹️ **IDE`s:** Visual Studio, Visual Studio Code, Microsoft SQL Server Management Studio, DBeaver, Docker
+- 🛠️ **Others:**  DevTools, Swagger, Postman, Vite, Jira
+- 🌀 **Controle version:** Git, GitHub
+- 🕹️ **IDE`s:** Visual Studio, Visual Studio Code, Microsoft SQL Server Management Studio, DBeaver
 - 👷 **Architectural pattern:** MVC, Client-Server, Microservice
 - 👷🏻‍♀️ **Testing pattern:** Arrange-Act-Assert, Page Object Model 
 - 📫 **How to reach me:** <a href="https://www.linkedin.com/in/ruslan-pidhainyi-10539126b/" target="_blank">LinkedIn</a>
