@@ -3,20 +3,21 @@
 ## My Skills 📚 
 
 - 👨‍💻 **Programming languages:** C# (OOP, SOLID, Design patterns), C++, JavaScript, TypeScript, Python
-- 🛢️ **Query languages:** T-SQL (Transact-SQL), SQL-92, PL/pgSQL
+- 🛢️ **Query languages:** T-SQL (Transact-SQL), SQL-92, PL/pgSQL, Cypher
 - 🎨 **Web-Technologies:** HTML, CSS, SASS (SCSS)
 - 🌐 **Frameworks & Libraries:** ASP .Net Core (MVC, Web API), React, Angular
 - 🤵 **API:** RESTful, GraphQL
 - 🤖 **ORM:** Entity Framework
 - ⚙  **Runtime Environments:** .Net (Framework, Core),  Node.js,  CPython
 - 📦 **Package Managers:** NuGet, NPM, Yarn, pip
-- 💾 **Databases:** Microsoft SQL Server, PostgreSQL, SQLite
-- ☁️ **Cloud Computing Platform:** Azure, AWS (S3 bucket, Lambda)
-- 🧪 **Tests:**
-   - AutoTest: Unit: (xUnit, MSTest), Integration: (xUnit, MSTest), smoke, ui, db, E2E: (Playwright)
-- 🛠️ **Others:**  DevTools, Swagger, Postman, Vite, Jira
+- 💾 **Databases:** Relation DB(SQL): Microsoft SQL Server, PostgreSQL, SQLite, Aurora, Athena. Graph DB(NoSQL): Neo4J
+- ☁️ **Cloud Computing Platform:** Azure, AWS (S3 bucket, Lambda, Athena)
+- 🧪 **Tests:** Unit: (xUnit, MSTest), Integration: (xUnit, MSTest), Smoke, UI, BD, E2E: (Playwright .TS, .Py)
+- ⛓️‍💥 **API Testing:** Swagger, Postman
+- 📁 **Build Tool for the Web:** Vite
+- 🛠️ **Others:**  DevTools, Jira
 - 🌀 **Controle version:** Git, GitHub
-- 🕹️ **IDE`s:** Visual Studio, Visual Studio Code, Microsoft SQL Server Management Studio, DBeaver
+- 🕹️ **IDE`s:** Visual Studio, Visual Studio Code, Microsoft SQL Server Management Studio, PostgresSQL, DBeaver
 - 👷 **Architectural pattern:** MVC, Client-Server, Microservice
 - 👷🏻‍♀️ **Testing pattern:** Arrange-Act-Assert, Page Object Model 
 - 📫 **How to reach me:** <a href="https://www.linkedin.com/in/ruslan-pidhainyi-10539126b/" target="_blank">LinkedIn</a>
