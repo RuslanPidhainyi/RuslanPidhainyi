@@ -5,7 +5,7 @@
 - 👨‍💻 **Programming languages:** C# (OOP, SOLID, Design patterns), C++, JavaScript, TypeScript, Python
 - 🛢️ **Query languages:** T-SQL (Transact-SQL), SQL-92, PL/pgSQL, Cypher
 - 🎨 **Web-Technologies:** HTML, CSS, SASS (SCSS)
-- 🌐 **Frameworks & Libraries:** ASP .Net Core (MVC, Web API), React, Angular
+- 🌐 **Frameworks & Libraries:** ASP .Net Core (MVC, Web API), React, Angular, Playwright (TypeScript, Python)
 - 🤵 **API:** RESTful, GraphQL
 - 🤖 **ORM:** Entity Framework
 - ⚙  **Runtime Environments:** .Net (Framework, Core),  Node.js,  CPython
@@ -17,7 +17,9 @@
 - 📁 **Build Tool for the Web:** Vite
 - 🛠️ **Others:**  DevTools, Jira
 - 🌀 **Controle version:** Git, GitHub
-- 🕹️ **IDE`s:** Visual Studio, Visual Studio Code, Microsoft SQL Server Management Studio, PostgresSQL, DBeaver
+- 🕹️ **IDE`s:** Visual Studio, Visual Studio Code
+- 🗄️ **DBMS:** Microsoft SQL Server Management Studio, pgAdmin 4, Neo4J, DBeaver
+- 🗃️ **Containerization:** Docker 
 - 👷 **Architectural pattern:** MVC, Client-Server, Microservice
 - 👷🏻‍♀️ **Testing pattern:** Arrange-Act-Assert, Page Object Model 
 - 📫 **How to reach me:** <a href="https://www.linkedin.com/in/ruslan-pidhainyi-10539126b/" target="_blank">LinkedIn</a>
