@@ -12,7 +12,7 @@
 - 📦 **Package Managers:** NuGet, NPM, Yarn, pip
 - 💾 **Databases:** Relation DB(SQL): Microsoft SQL Server, PostgreSQL, SQLite, Aurora, Athena. Graph DB(NoSQL): Neo4J
 - ☁️ **Cloud Computing Platform:** Azure, AWS (S3 bucket, Lambda, Athena)
-- 🧪 **Tests:** Unit: (xUnit, MSTest), Integration: (xUnit, MSTest), Smoke, UI, BD, E2E: (Playwright .TS, .Py)
+- 🧪 **Tests:** Unit: (xUnit, MSTest), Integration: (xUnit, MSTest), E2E: Smoke, e2e. (Playwright .TS, .Py)
 - ⛓️‍💥 **API Testing:** Swagger, Postman
 - 📁 **Build Tool for the Web:** Vite
 - 🛠️ **Others:**  DevTools, Jira
