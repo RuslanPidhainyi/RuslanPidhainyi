@@ -11,8 +11,8 @@
 - ⚙  **Runtime Environments:** .Net (Framework, Core),  Node.js,  CPython
 - 📦 **Package Managers:** NuGet, NPM, Yarn, pip
 - 💾 **Databases:** Relation DB(SQL): Microsoft SQL Server, PostgreSQL, SQLite, Aurora, Athena. Graph DB(NoSQL): Neo4J
-- ☁️ **Cloud Computing Platform:** Azure, AWS (S3 bucket, Lambda, Athena)
-- 🧪 **Tests:** Unit: (xUnit, MSTest), Integration: (xUnit, MSTest), E2E: Smoke, e2e. (Playwright .TS, .Py)
+- ☁️ **Cloud Computing Platform:** Azure DevOps(Boards, Repos, Wiki, CI/CD Pipelines, Test Plans), Azure, AWS (S3 bucket, Lambda, Athena)
+- 🧪 **Tests:** Unit: (xUnit, MSTest), Integration: (xUnit, MSTest), Smoke, Regression, E2E: (Playwright .TS, .Py)
 - ⛓️‍💥 **API Testing:** Swagger, Postman
 - 📁 **Build Tool for the Web:** Vite
 - 🛠️ **Others:**  DevTools, Jira
@@ -20,7 +20,7 @@
 - 🕹️ **IDE`s:** Visual Studio, Visual Studio Code
 - 🗄️ **DBMS:** Microsoft SQL Server Management Studio, pgAdmin 4, Neo4J, DBeaver
 - 🗃️ **Containerization:** Docker 
-- 👷 **Architectural pattern:** MVC, Client-Server, Microservice
+- 👷 **Architectural pattern:** MVC, Client-Server, Monolithic, Microservice
 - 👷🏻‍♀️ **Testing pattern:** Arrange-Act-Assert, Page Object Model 
 - 📫 **How to reach me:** <a href="https://www.linkedin.com/in/ruslan-pidhainyi-10539126b/" target="_blank">LinkedIn</a>
 , <a href="mailto:ruslanpidhainyi02@gmail.com" target="_blank">Gmail</a>
