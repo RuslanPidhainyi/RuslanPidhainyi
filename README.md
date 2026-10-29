@@ -21,7 +21,8 @@
 - 🗄️ **DBMS:** Microsoft SQL Server Management Studio, pgAdmin 4, Neo4J, DBeaver
 - 🗃️ **Containerization:** Docker 
 - 👷 **Architectural pattern:** MVC, Client-Server, Monolithic, Microservice
-- 👷🏻‍♀️ **Testing pattern:** Arrange-Act-Assert, Page Object Model 
+- 👷🏻‍♀️ **Testing pattern:** Arrange-Act-Assert, Page Object Model
+- 💡 **AI Tools:** GitHub Copilot, ChatGPT(Codex), Claude(Claude Code) 
 - 📫 **How to reach me:** <a href="https://www.linkedin.com/in/ruslan-pidhainyi-10539126b/" target="_blank">LinkedIn</a>
 , <a href="mailto:ruslanpidhainyi02@gmail.com" target="_blank">Gmail</a>
 
