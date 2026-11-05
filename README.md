@@ -20,7 +20,7 @@
 - 🕹️ **IDE`s:** Visual Studio, Visual Studio Code
 - 🗄️ **DBMS:** Microsoft SQL Server Management Studio, pgAdmin 4, Neo4J, DBeaver
 - 🗃️ **Containerization:** Docker 
-- 👷 **Architectural pattern:** MVC, Client-Server, Monolithic, Microservice
+- 👷 **Architectural pattern:** MVC, Client-Server, Monolithic, Event-driven, Serverless, Microservice
 - 👷🏻‍♀️ **Testing pattern:** Arrange-Act-Assert, Page Object Model
 - 💡 **AI Tools:** GitHub Copilot, ChatGPT(Codex), Claude(Claude Code) 
 - 📫 **How to reach me:** <a href="https://www.linkedin.com/in/ruslan-pidhainyi-10539126b/" target="_blank">LinkedIn</a>
